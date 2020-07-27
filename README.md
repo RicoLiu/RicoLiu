@@ -1,5 +1,6 @@
-# README
+# RicoLiu
 
-[![RicoLiu's github stats](https://github-readme-stats.vercel.app/api?username=RicoLiu&show_icons=true&theme=radical)](https://github.com/RicoLiu/README)
+一个梦想能够参与千万级 DAU 产品开发的前端小兵
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicoLiu)](https://github.com/RicoLiu)
+[![RicoLiu's github stats](https://github-readme-stats.vercel.app/api?username=RicoLiu&show_icons=true&theme=radical)](https://github.com/RicoLiu/RicoLiu)
+
